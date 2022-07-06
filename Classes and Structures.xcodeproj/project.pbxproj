@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D064E87E2873F1A400DDD4B9 /* Classes_and_StructuresApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E87D2873F1A400DDD4B9 /* Classes_and_StructuresApp.swift */; };
+		D064E87E2873F1A400DDD4B9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E87D2873F1A400DDD4B9 /* main.swift */; };
 		D064E8802873F1A400DDD4B9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D064E87F2873F1A400DDD4B9 /* ContentView.swift */; };
 		D064E8822873F1A600DDD4B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E8812873F1A600DDD4B9 /* Assets.xcassets */; };
 		D064E8852873F1A600DDD4B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D064E8842873F1A600DDD4B9 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D064E87A2873F1A400DDD4B9 /* Classes and Structures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Classes and Structures.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D064E87D2873F1A400DDD4B9 /* Classes_and_StructuresApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classes_and_StructuresApp.swift; sourceTree = "<group>"; };
+		D064E87D2873F1A400DDD4B9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D064E87F2873F1A400DDD4B9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D064E8812873F1A600DDD4B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D064E8842873F1A600DDD4B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D064E87C2873F1A400DDD4B9 /* Classes and Structures */ = {
 			isa = PBXGroup;
 			children = (
-				D064E87D2873F1A400DDD4B9 /* Classes_and_StructuresApp.swift */,
+				D064E87D2873F1A400DDD4B9 /* main.swift */,
 				D064E87F2873F1A400DDD4B9 /* ContentView.swift */,
 				D064E8812873F1A600DDD4B9 /* Assets.xcassets */,
 				D064E8862873F1A600DDD4B9 /* Classes_and_Structures.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D064E8802873F1A400DDD4B9 /* ContentView.swift in Sources */,
-				D064E87E2873F1A400DDD4B9 /* Classes_and_StructuresApp.swift in Sources */,
+				D064E87E2873F1A400DDD4B9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
